@@ -1,4 +1,4 @@
-### Hi there 👋
+### BOJ Algorithm 👋
 
 <!--
 **wh2per/wh2per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wh2per)](https://solved.ac/wh2per)
