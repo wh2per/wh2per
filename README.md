@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### :pencil2: BOJ Algorithm 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wh2per)](https://solved.ac/wh2per) 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wh2per)](https://solved.ac/wh2per) 
 <br>  
 
